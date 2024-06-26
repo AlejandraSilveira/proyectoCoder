@@ -149,6 +149,14 @@ p {
   color: black;
 }
 
+.instagramLogo {
+  max-width: 30px;
+}
+
+.footer-text {
+  margin-left: 5px;
+}
+
 #mi-footer .footer-text {
   color: black;
 }
