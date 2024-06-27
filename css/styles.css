@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
 @media (max-width: 768px) {
-  .align-right-mobile {
+  a.nolink.align-right-mobile {
     text-align: right;
+    padding: 0;
   }
 }
 @media (max-width: 768px) {
@@ -12,8 +13,8 @@
 }
 @media (max-width: 768px) {
   .mobile-margin {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 }
 * {
